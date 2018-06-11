@@ -1,2 +1,4 @@
 # smu_msds_hw
-Reposity for my homework from the SMU MSDS program.
+Repository for my homework from the SMU MSDS program.
+
+Content will be sorted by MSDS course number and further by homework number.
