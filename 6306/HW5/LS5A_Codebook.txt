@@ -1,0 +1,9 @@
+Codebook for Live Session Unit 5 Assignment.
+
+Object			Description
+df				Initial dataframe from import of the data in the file yob2016.csv
+y2016			Dataframe df, with erroneous and redundant entry removed
+y2015			Dataframe from import of the data in the file yob2015.csv
+final			Dataframe containing names common to both y2016 and y2015
+final_girls		Dataframe from final, boys names omitted
+topten_girls	Dataframe from final_girls, sorted by descending popularity, first ten rows
